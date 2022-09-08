@@ -15,7 +15,7 @@ int main(void)
 	long long a_longlong;
 
 	printf("Size of a char: %lu byte(s)\n", sizeof(a_character));
-	printf("Size of int: %lu byte(s)\n", sizeof(a_int));
+	printf("Size of int: %lu byte(s)\n", sizeof(a_integer));
 	printf("Size of float: %lu byte(s)\n", sizeof(a_float));
 	printf("Size of long: %lu byte(s)\n", sizeof(a_long));
 	printf("Size of long long: %lu byte(s)\n", sizeof(a_longlong));
