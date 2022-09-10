@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 /**
- *
  * main - Entrypoint
  *
  * Return: always 0 (Success)
