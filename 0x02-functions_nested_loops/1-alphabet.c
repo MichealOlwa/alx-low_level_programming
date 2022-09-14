@@ -6,7 +6,7 @@
  * Return : Always (sucess)
  */
 
-void print_alphabate(void)
+void print_alphabet(void)
 {
 	char letter = 'a';
 
