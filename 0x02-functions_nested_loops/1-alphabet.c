@@ -5,13 +5,15 @@
  *
  * Return : Always (sucess)
  */
+
 void print_alphabate(void)
 {
-	char alphate;
+	char letter = 'a';
 
-	for (alphate = 'a'; alphate <= 'z'; alphate++)
+	while (letter <= 'z')
 	{
-		_putchar(alphate);
+		_putchar(letter);
+		letter++;
 	}
 
 	_putchar('\n');
