@@ -3,7 +3,7 @@
 /**
  * _isalpha - checks an alphabetic character
  * @c: single letter input
- * Retrun: 1 or 0
+ * Retrun: 1 if its an alphabet or 0 if otherwise
  */
 int _isalpha(int c)
 {
