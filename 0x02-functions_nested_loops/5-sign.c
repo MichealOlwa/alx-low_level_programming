@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - entry point
+ * print_sign - prints the sign of the number
  * @n: carrier variable
  * description: prints the sign of the number
  * return: 1 if n>0, 0 if n==0, -1 if n<0
@@ -14,7 +14,7 @@ int print_sign(int n)
 		_putchar('+');
 		return (1);
 	}
-	else if (n <0)
+	else if (n < 0)
 	{
 		_putchar('-');
 		return (-1);
